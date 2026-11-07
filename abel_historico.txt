@@ -1,0 +1,80 @@
+[2026-11-06 22:43:36] ABEL: Boa noite, senhor. Abel à disposição. Como posso ser útil?
+[2026-11-06 22:43:56] VOCÊ: aprenda que python é uma linguagem de programação
+[2026-11-06 22:43:56] ABEL: Anotado, senhor. Registrei que python é uma linguagem de programação.
+[2026-11-06 22:44:07] VOCÊ: aprenda que carro é sinônimo de automóvel
+[2026-11-06 22:44:07] ABEL: Registrado, senhor. 'carro' agora remete a 'automóvel'.
+[2026-11-06 22:44:23] VOCÊ: aprenda que automóvel é um veículo de quatro rodas
+[2026-11-06 22:44:23] ABEL: Anotado, senhor. Registrei que automóvel é um veículo de quatro rodas.
+[2026-11-06 22:44:31] VOCÊ: o que é carro?
+[2026-11-06 22:44:31] ABEL: Automóvel (referido como 'carro') é um veículo de quatro rodas.
+[2026-11-06 22:44:44] VOCÊ: o que é piton?
+[2026-11-06 22:44:44] ABEL: Receio não possuir informações sobre 'piton', senhor. Se desejar, posso aprender — basta dizer: aprenda que piton é ...
+[2026-11-06 22:45:02] VOCÊ: o que é piton?
+[2026-11-06 22:45:03] ABEL: Receio não possuir informações sobre 'piton', senhor. Se desejar, posso aprender — basta dizer: aprenda que piton é ...
+[2026-11-06 22:45:31] VOCÊ: o que é python e o que é carro
+[2026-11-06 22:45:31] ABEL: Sobre suas consultas, senhor:
+  • Python é uma linguagem de programação.
+  • Automóvel (referido como 'carro') é um veículo de quatro rodas.
+[2026-11-06 22:45:41] VOCÊ: listar
+[2026-11-06 22:45:41] ABEL: Eis o que sei até o momento, senhor:
+Conhecimentos:
+  • automóvel → um veículo de quatro rodas
+  • python → uma linguagem de programação
+Sinônimos:
+  • carro → automóvel
+[2026-11-06 22:45:52] VOCÊ: sair
+[2026-11-06 22:45:52] ABEL: Encerrando sistemas. Foi um prazer, senhor. Até breve.
+[2026-11-06 22:47:21] ABEL: Boa noite, senhor. Abel à disposição. Como posso ser útil?
+[2026-11-06 22:47:32] VOCÊ: aprenda que python é uma linguagem de programação
+[2026-11-06 22:47:32] ABEL: Anotado, senhor. Registrei que python é uma linguagem de programação.
+[2026-11-06 22:47:40] VOCÊ: aprenda que carro é sinônimo de automóvel
+[2026-11-06 22:47:40] ABEL: Ambos os termos já são equivalentes, senhor.
+[2026-11-06 22:47:51] VOCÊ: aprenda que automóvel é um veículo de quatro rodas
+[2026-11-06 22:47:51] ABEL: Anotado, senhor. Registrei que automóvel é um veículo de quatro rodas.
+[2026-11-06 22:48:02] VOCÊ: o que é piton?
+[2026-11-06 22:48:02] ABEL: Python (referido como 'piton') é uma linguagem de programação.
+[2026-11-06 22:48:29] VOCÊ: o que é piton
+[2026-11-06 22:48:29] ABEL: Python (referido como 'piton') é uma linguagem de programação.
+[2026-11-06 22:48:41] VOCÊ: aprenda que piton é uma cobra
+[2026-11-06 22:48:41] ABEL: Senhor, 'piton' assemelha-se a 'python', que já possuo em minha base. Devo registrar como novo termo mesmo assim? Se sim, repita o comando confirmando: 'confirme aprenda que piton é uma cobra'.
+[2026-11-06 22:49:30] VOCÊ: aprenda que piton é uma cobra
+[2026-11-06 22:49:30] ABEL: Senhor, 'piton' assemelha-se a 'python', que já possuo em minha base. Devo registrar como novo termo mesmo assim? Se sim, repita o comando confirmando: 'confirme aprenda que piton é uma cobra'.
+[2026-11-06 22:49:43] VOCÊ: confirme aprenda que piton é uma cobra
+[2026-11-06 22:49:43] ABEL: Confirmado e registrado, senhor. 'piton' agora é 'uma cobra'.
+[2026-11-06 22:49:57] VOCÊ: o que é piton
+[2026-11-06 22:49:57] ABEL: Piton é uma cobra.
+[2026-11-06 22:50:05] VOCÊ: o que é python
+[2026-11-06 22:50:05] ABEL: Python é uma linguagem de programação.
+[2026-11-06 22:50:13] VOCÊ: o que é um carro
+[2026-11-06 22:50:14] ABEL: Receio não possuir informações sobre 'um carro', senhor. Se desejar, posso aprender — basta dizer: aprenda que um carro é ...
+[2026-11-06 22:50:20] VOCÊ: oque é carro
+[2026-11-06 22:50:20] ABEL: Não tenho certeza de como proceder, senhor. Posso aprender algo novo, caso deseje: 'aprenda que X é Y'.
+[2026-11-06 22:51:07] VOCÊ: sair
+[2026-11-06 22:51:07] ABEL: Encerrando sistemas. Foi um prazer, senhor. Até breve.
+[2026-11-06 22:52:59] ABEL: Boa noite, senhor. Abel à disposição. Como posso ser útil?
+[2026-11-06 22:53:14] VOCÊ: aprenda que python é uma linguagem de programação
+[2026-11-06 22:53:14] ABEL: Anotado, senhor. Registrei que python é uma linguagem de programação.
+[2026-11-06 22:53:21] VOCÊ: aprenda que carro é sinônimo de automóvel
+[2026-11-06 22:53:21] ABEL: Ambos os termos já são equivalentes, senhor.
+[2026-11-06 22:53:43] VOCÊ: aprenda que automóvel é um veículo de quatro rodas
+[2026-11-06 22:53:43] ABEL: Anotado, senhor. Registrei que automóvel é um veículo de quatro rodas.
+[2026-11-06 22:53:52] VOCÊ: o que é carro?
+[2026-11-06 22:53:52] ABEL: Automóvel (referido como 'carro') é um veículo de quatro rodas.
+[2026-11-06 22:54:03] VOCÊ: o que é piton?
+[2026-11-06 22:54:03] ABEL: Piton é uma cobra.
+[2026-11-06 22:54:15] VOCÊ: o que é python e o que é carro
+[2026-11-06 22:54:15] ABEL: Sobre suas consultas, senhor:
+  • Python é uma linguagem de programação.
+  • Automóvel (referido como 'carro') é um veículo de quatro rodas.
+[2026-11-06 22:54:22] VOCÊ: listar
+[2026-11-06 22:54:22] ABEL: Eis o que sei até o momento, senhor:
+Conhecimentos:
+  • automóvel → um veículo de quatro rodas
+  • piton → uma cobra
+  • python → uma linguagem de programação
+Sinônimos:
+  • carro → automóvel
+[2026-11-06 22:54:45] VOCÊ: exportar
+[2026-11-06 22:54:45] ABEL: Exportado para 'abel_memoria.md', senhor.
+[2026-11-06 22:54:53] VOCÊ: sair
+[2026-11-06 22:54:53] ABEL: Encerrando sistemas. Foi um prazer, senhor. Até breve.

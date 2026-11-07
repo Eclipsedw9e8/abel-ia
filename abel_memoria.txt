@@ -1,0 +1,4 @@
+python|||uma linguagem de programação
+automóvel|||um veículo de quatro rodas
+piton|||uma cobra
+SIN|||carro|||automóvel
